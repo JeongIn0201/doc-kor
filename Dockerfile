@@ -1,4 +1,4 @@
-FROM UBUNTU:16.04
+FROM ubuntu:16.04
 MAINTAINER 1234 <1234@1234>
 RUN apt-get update
 RUN apt-get install -y nginx
